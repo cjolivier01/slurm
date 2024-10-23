@@ -1,0 +1,1 @@
+./configure --prefix=${HOME}/slurm_root --enable-debug --enable-slurmrestd
